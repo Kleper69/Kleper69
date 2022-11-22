@@ -6,4 +6,6 @@
 - Assim um simples toque fará a espiral de cobre girar sem parar.
 - Se ele continuar girando sem parar é porque deu certo.
 - O nosso girou perfeitamente :)...
-? 
+? ![Motor eletromagnético](https://user-images.githubusercontent.com/118777056/203202014-ec2d2090-329f-4f2b-85b3-b71206a077c1.jpeg)
+
+
